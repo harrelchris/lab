@@ -22,3 +22,27 @@ Documentation for a lab
 - [Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Self-Hosted Non-Free](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md)
 - [Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+
+## Hardware
+
+- Server
+  - Blade
+  - Tower
+  - Cluster
+  - Machine
+    - Micro PC
+    - Raspberry Pi
+    - Laptop
+- Client
+  - Thin Client
+  - Laptop
+  - Desktop
+- Storage
+  - NAS
+- UPS
+- Switch
+- Printer
+
+## Information
+
+- [Proxmox Course](https://www.youtube.com/watch?v=5j0Zb6x_hOk&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
